@@ -1,6 +1,6 @@
 # Wow, that's interesting.
 
-![Wow, that's interesting.](https://github.com/user-attachments/assets/6bb9ff8e-6f15-4ca2-b9cf-3579aa44f09d)
+![Wow, that's interesting.](https://github.com/user-attachments/assets/b3ed5c45-c321-493f-a600-b19161e0616f)
 
 This `README` uses 25 of the supported languages used by Github's markdown renderer to explore the different ways my weird ASCII art banner displays color iside of code blocks. I've chosen these 25 languages out of the known 127 Github supports because of their unique and varying color selections for the slashes in this art. Code blocks in markdown don't seem to be rendered the same in every IDE/website. [Neovim](https://github.com/neovim/neovim), [VSCode](https://github.com/microsoft/vscode) and [Github](https://github.com/) for example all look VERY different.
 
