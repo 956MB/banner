@@ -4,7 +4,7 @@
 
 This `README` uses 25 of the supported languages used by Github's markdown renderer to explore the different ways my weird ASCII art banner displays color iside of code blocks. I've chosen these 25 languages out of the known 127 Github supports because of their unique and varying color selections for the slashes in this art. Code blocks in markdown don't seem to be rendered the same in every IDE/website. [Neovim](https://github.com/neovim/neovim), [VSCode](https://github.com/microsoft/vscode) and [Github](https://github.com/) for example all look VERY different.
 
-I got the list of Github's supported languages [here](https://github.com/jincheng9/markdown_supported_languages). I don't think there's any particualrly useful aspect to this `README` at all. Just a fun idea that took way too long to narrow down.
+I got the *short* list of supported languages from [jincheng9/markdown_supported_languages](https://github.com/jincheng9/markdown_supported_languages), and I used Github's [linguist/languages.yml](https://github.com/github-linguist/linguist/blob/main/lib/linguist/languages.yml) to get the full list of languages. Which can all be found in [Languages/{LETTER}](./Languages/). I don't think there's any particualrly useful aspect to this `README` at all. Just a fun idea that took way too long to narrow down. Not all of the languages offer a unique color combo for the ascii art, so below are most of the "fun" ones that are all different.
 
 "Enjoy"
 
