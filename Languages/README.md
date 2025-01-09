@@ -151,6 +151,8 @@
     - [Nunjucks](./N/README.md#nunjucks--njk)
     - [Nushell](./N/README.md#nushell--nu-script-nushell-script)
 - [O](./O)
+    - [OMNeT++ MSG](./O/README.md#omnet++-msg--omnetpp-msg)
+    - [OMNeT++ NED](./O/README.md#omnet++-ned--omnetpp-ned)
     - [Objective-C](./O/README.md#objective-c--obj-c-objc-objectivec)
     - [Objective-C++](./O/README.md#objective-c++--obj-c++-objc++-objectivec++)
     - [Objective-J](./O/README.md#objective-j--obj-j-objectivej-objj)
