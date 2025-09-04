@@ -184,6 +184,7 @@
 - [R](./R)
     - [R](./R/README.md#r--rscript-splus)
     - [REXX](./R/README.md#rexx--arexx)
+    - [ROS Interface](./R/README.md#ros-interface--rosmsg)
     - [RPC](./R/README.md#rpc--rpcgen-oncrpc-xdr)
     - [RPGLE](./R/README.md#rpgle--ile-rpg-sqlrpgle)
     - [RPM Spec](./R/README.md#rpm-spec--specfile)
